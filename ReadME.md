@@ -13,3 +13,5 @@ python main.py
  --data  [path to data file]
  --rtype [method to calculate returns for the payoff table]
  ```
+
+ 
